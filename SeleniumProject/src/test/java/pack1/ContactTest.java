@@ -21,5 +21,10 @@ public class ContactTest {
  public void modifycontactTest() {
 	 System.out.println("execute modify contact test");
  }
+ @Test
+  
+ public void print() {
+	 System.out.println("on poll scm done");
+ }
 
 }
